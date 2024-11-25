@@ -1,0 +1,1 @@
+ /Users/Richa/Desktop/provider-state-management/.dart_tool/flutter_build/8790c98da0afdebf4995ceedb352bdf3/native_assets.yaml: 
